@@ -1,6 +1,6 @@
 Horiseon Social Solution Services Refactor
 
-https://glenhood.github.io/refactor/
+https://glenhood.github.io/Horiseon-Social-Solution-Services-Refactor/
 
 Per client request, this site was refactored to meet accessibility standards to optimize for search engines. Also, during the refactor, semantic HTML structure was added and elements were restructured logically, independent of style and position. 
 Heading attributes were changed to follow sequential order and the page was provided with a consise, descriptive title. Finally, CSS selectors and properties were consolidated and organized to follow semantic structure, as well as the CSS file being properly commented.
